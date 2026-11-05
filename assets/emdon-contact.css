@@ -1,0 +1,24 @@
+
+#wpforms-98 .emdon-quote-form{width:100%;max-width:100%;font-family:inherit;box-sizing:border-box}
+#wpforms-98 .emdon-quote-form *{box-sizing:border-box}
+#wpforms-98 .emdon-two-col{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+#wpforms-98 .emdon-field{margin:0 0 20px}
+#wpforms-98 .emdon-field label{display:block;margin:0 0 8px;color:#242424;font-size:16px;font-weight:600;line-height:1.4}
+#wpforms-98 .emdon-field label span{color:#bc3333}
+#wpforms-98 .emdon-field input,#wpforms-98 .emdon-field textarea{display:block;width:100%;max-width:100%;min-width:0;padding:12px 14px;min-height:45px;background:#fff;border:1px solid #cfd3d6;border-radius:4px;color:#242424;font:inherit;font-size:16px;line-height:1.45}
+#wpforms-98 .emdon-field textarea{min-height:120px;resize:vertical}
+#wpforms-98 .emdon-field input:focus-visible,#wpforms-98 .emdon-field textarea:focus-visible{outline:2px solid #3068e8;outline-offset:1px;border-color:#3068e8}
+#wpforms-98 .emdon-hint{font-size:13px;color:#5d6571;margin:-7px 0 20px}
+#wpforms-98 .emdon-turnstile{margin:5px 0 18px;min-height:65px}
+#wpforms-98 .emdon-submit{border:0;border-radius:4px;padding:13px 24px;background:#3268e9;color:#fff;font:700 16px/1.35 inherit;cursor:pointer;min-height:45px}
+#wpforms-98 .emdon-submit:hover{background:#2255c9}
+#wpforms-98 .emdon-submit:disabled{opacity:.65;cursor:wait}
+#wpforms-98 .emdon-contact-status{margin:12px 0 0;color:#455768;font-size:14px}
+#wpforms-98 .emdon-contact-status.error{color:#ab2525}
+#wpforms-98 .emdon-contact-success{padding:36px 20px;text-align:center;border:1px solid #cde7d6;background:#f5fbf7;border-radius:10px}
+#wpforms-98 .emdon-contact-success h3{font:700 25px/1.3 inherit;color:#163c29;margin:8px 0 12px}
+#wpforms-98 .emdon-contact-success p{color:#325343;margin:0}
+#wpforms-98 .emdon-success-check{display:inline-grid;place-items:center;width:56px;height:56px;border-radius:50%;background:#d8f2e1;color:#1a8049;font:700 30px Arial,sans-serif}
+#wpforms-98 .emdon-trap{position:absolute!important;left:-9999px!important;width:1px!important;height:1px!important;overflow:hidden!important;opacity:0!important}
+#wpforms-98 [hidden]{display:none!important}
+@media(max-width:640px){#wpforms-98 .emdon-two-col{grid-template-columns:1fr;gap:0}#wpforms-98 .emdon-submit{width:100%}}
