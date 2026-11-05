@@ -1,0 +1,717 @@
+{
+    "version": "0.4",
+    "title": "Single Post",
+    "type": "section",
+    "metadata": {
+        "template_type": "single-post",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "6e6e433f",
+            "settings": {
+                "background_background": "classic",
+                "background_color": "#121B2B",
+                "background_image": {
+                    "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2022\/01\/bryan-colosky-3ChXTytXDUI-unsplash-1.jpg",
+                    "id": 705
+                },
+                "background_position": "top center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#192437",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "overlay_blend_mode": "multiply",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "b17b0e3"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=secondary",
+                    "background_overlay_color": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "30",
+                    "bottom": "40",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "51f8e321",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "a04bf01"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "1b3b2247",
+                            "settings": {
+                                "title": "Single Post Title",
+                                "title_color": "#FFFFFF",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "48a9a14"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=bfa2f67"
+                                },
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "40cf0772",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 4,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "28a4aa9"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "b09229f",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet consectetur elit<\/p>",
+                                "text_color": "#FFFFFF",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "a458d66"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6e93092a",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1000,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "80",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "5835ccb"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "4cd0c26b",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "04fc973"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "32abaf06",
+                            "settings": {
+                                "image": {
+                                    "id": 1186,
+                                    "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/man-fixing-kitchen-sink-resize.jpg"
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "1500",
+                                    "height": "800"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 150,
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2910eed"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "15b61750",
+                            "settings": {
+                                "title": "A Guide to Choosing Between Plumbing Pipe Types",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=bfa2f67"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 50,
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "9a29194"
+                                    }
+                                ],
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "79a4ce38",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie viverra hendrerit. Nam et ultricies turpis. Sed quis tempus lorem. Quisque ut ex dapibus, aliquet magna in, condimentum nibh. Quisque turpis nibh, gravida et elit at, placerat varius orci. Maecenas scelerisque pulvinar sem, at scelerisque odio gravida pulvinar. Aliquam accumsan risus non lectus placerat lobortis. Maecenas eros tortor, mattis vel dui efficitur, accumsan maximus nunc.<\/p><p>Pellentesque nec massa quis urna fringilla ullamcorper. Donec sodales eget justo a fringilla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque vel venenatis libero. Aenean accumsan sapien in augue eleifend luctus. Etiam vitae eros a nisl ornare ornare eget ut felis. Vestibulum congue quam et turpis dictum, id accumsan neque laoreet.<\/p>",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100,
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "cefca2f"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "51c015c",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "icon icon-testimonial-quote",
+                                    "library": "ekiticons"
+                                },
+                                "title_text": "",
+                                "description_text": "<i>Aliquam sed ante facilisis, rhoncus lectus ac, volutpat lacus. Sed varius auctor nunc, sit amet faucibus sapien aliquam sit amet. Praesent condimentum dignissim convallis. Curabitur elementum mi ipsum, eget pretium orci fermentum ut. Praesent aliquam ligula quis interdum aliquam. Sed augue est, blandit eu bibendum tempor, tempus in justo. Vivamus in lacus tincidunt metus fermentum faucibus eget ut nibh. Ut viverra urna quis lectus malesuada, id ultricies libero vehicula. Nunc tempor efficitur purus, sed pretium metus pretium eu. Duis iaculis dapibus venenatis. Morbi consectetur elementum purus non dapibus.<\/i>",
+                                "position": "left",
+                                "icon_space": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=accent"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 150,
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "c97f033"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "745bb825",
+                            "settings": {
+                                "title": "Donec Posuere Mollis",
+                                "header_size": "h3",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=bfa2f67"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200,
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4765508"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "51e2a69c",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie viverra hendrerit. Nam et ultricies turpis. Sed quis tempus lorem. Quisque ut ex dapibus, aliquet magna in, condimentum nibh. Quisque turpis nibh, gravida et elit at, placerat varius orci. Maecenas scelerisque pulvinar sem, at scelerisque odio gravida pulvinar. Aliquam accumsan risus non lectus placerat lobortis. Maecenas eros tortor, mattis vel dui efficitur, accumsan maximus nunc.<\/p>",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100,
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2aacb74"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "57956220",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 1118,
+                                        "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/selective-focus-of-plumber-holding-metal-pipe-near-resize.jpg"
+                                    },
+                                    {
+                                        "id": 1122,
+                                        "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/selective-focus-of-repairman-holding-plunger-in-ki-resize.jpg"
+                                    },
+                                    {
+                                        "id": 1163,
+                                        "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/young-professional-plumber-in-grey-uniform-working-resize.jpg"
+                                    },
+                                    {
+                                        "id": 1134,
+                                        "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/tools-case-top-view-of-seniour-handyman-repairing-resize.jpg"
+                                    }
+                                ],
+                                "thumbnail_size": "full",
+                                "navigation": "arrows",
+                                "image_spacing": "custom",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200,
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "f8905f2"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "744b6a32",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie viverra hendrerit. Nam et ultricies turpis. Sed quis tempus lorem. Quisque ut ex dapibus, aliquet magna in, condimentum nibh. Quisque turpis nibh, gravida et elit at, placerat varius orci. Maecenas scelerisque pulvinar sem, at scelerisque odio gravida pulvinar. Aliquam accumsan risus non lectus placerat lobortis. Maecenas eros tortor, mattis vel dui efficitur, accumsan maximus nunc.<\/p><p>Pellentesque nec massa quis urna fringilla ullamcorper. Donec sodales eget justo a fringilla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque vel venenatis libero. Aenean accumsan sapien in augue eleifend luctus. Etiam vitae eros a nisl ornare ornare eget ut felis. Vestibulum congue quam et turpis dictum, id accumsan neque laoreet.<\/p>",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 250,
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "07ac37a"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "127e3468",
+                            "settings": {
+                                "text": "Divider",
+                                "color": "#D6D6D6",
+                                "__globals__": {
+                                    "color": ""
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "b68cee9"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4ebb37b6",
+                            "settings": {
+                                "title": "Recent Post",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=bfa2f67"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100,
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "9c6fb25"
+                                    }
+                                ],
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3aa4e2b8",
+                            "settings": {
+                                "ekit_blog_posts_cats": [
+                                    "1"
+                                ],
+                                "ekit_blog_posts_btn_text": "Read More ",
+                                "ekit_blog_posts_layout_style": "elementskit-post-image-card",
+                                "ekit_blog_posts_content_trim": 10,
+                                "ekit_blog_posts_floating_date": "",
+                                "ekit_blog_posts_floating_category": "yes",
+                                "ekit_blog_posts_title_position": "before_meta",
+                                "ekit_blog_posts_meta_select": [
+                                    "date"
+                                ],
+                                "ekit_blog_posts_btn_icons": {
+                                    "value": "icon icon-right-arrow2",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_blog_posts_btn_icon_align": "right",
+                                "ekit_blog_posts_background_background": "classic",
+                                "ekit_blog_posts_background_color": "#FFFFFF",
+                                "ekit_blog_posts_shadow_box_shadow_type": "yes",
+                                "ekit_blog_posts_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 10,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0)"
+                                },
+                                "ekit_blog_posts_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_blog_posts_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_blog_posts_text_content_wraper_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_blog_posts_content_background": "#FFFFFF00",
+                                "ekit_blog_posts_feature_img_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_blog_posts_feature_img_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_blog_posts_meta_color_normal": "#FF5316",
+                                "ekit_blog_posts_meta_color_icon_normal": "#FF5316",
+                                "ekit_blog_posts_floating_category_typography_typography": "custom",
+                                "ekit_blog_posts_floating_category_typography_font_family": "Hind Vadodara",
+                                "ekit_blog_posts_floating_category_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_floating_category_typography_font_weight": "400",
+                                "ekit_blog_posts_floating_category_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_floating_category_padding": {
+                                    "unit": "px",
+                                    "top": "4",
+                                    "right": "8",
+                                    "bottom": "4",
+                                    "left": "8",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_floating_category_padding_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_blog_posts_title_color": "#192437",
+                                "ekit_blog_posts_title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_content_color": "#727272",
+                                "ekit_blog_posts_content_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_btn_text_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_btn_normal_icon_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_btn_text_color": "#FF5316",
+                                "ekit_blog_posts_btn_bg_color_background": "classic",
+                                "ekit_blog_posts_btn_bg_color_color": "#02010100",
+                                "__globals__": {
+                                    "ekit_blog_posts_title_typography_typography": "globals\/typography?id=6c0751a",
+                                    "ekit_blog_posts_title_color": "globals\/colors?id=primary",
+                                    "ekit_blog_posts_content_color": "globals\/colors?id=text",
+                                    "ekit_blog_posts_content_typography_typography": "globals\/typography?id=text",
+                                    "ekit_blog_posts_meta_typography_typography": "",
+                                    "ekit_blog_posts_meta_color_normal": "globals\/colors?id=accent",
+                                    "ekit_blog_posts_meta_color_icon_normal": "globals\/colors?id=accent",
+                                    "ekit_blog_posts_btn_text_color": "globals\/colors?id=accent",
+                                    "ekit_blog_posts_btn_typography_typography": "globals\/typography?id=accent",
+                                    "ekit_blog_posts_floating_category_typography_typography": "",
+                                    "ekit_blog_posts_floating_category_bg_color": "globals\/colors?id=accent",
+                                    "ekit_blog_posts_btn_hover_color": "globals\/colors?id=accent"
+                                },
+                                "ekit_blog_posts_meta_date_icons": {
+                                    "value": "far fa-calendar-alt",
+                                    "library": "fa-regular"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2853c53"
+                                    }
+                                ],
+                                "ekit_blog_posts_is_manual_selection": "recent",
+                                "ekit_blog_posts_feature_img_size": {
+                                    "unit": "px",
+                                    "size": 250,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_meta_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_meta_item_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_meta_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_meta_icon_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_floating_category_bg_color": "#FF5316",
+                                "ekit_blog_posts_title_typography_typography": "custom",
+                                "ekit_blog_posts_title_typography_font_family": "Hind Vadodara",
+                                "ekit_blog_posts_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_title_typography_font_weight": "600",
+                                "ekit_blog_posts_title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_content_typography_typography": "custom",
+                                "ekit_blog_posts_content_typography_font_family": "Poppins",
+                                "ekit_blog_posts_content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_content_typography_font_weight": "400",
+                                "ekit_blog_posts_content_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_btn_hover_color": "#FF5316",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_meta_typography_typography": "custom",
+                                "ekit_blog_posts_meta_typography_font_family": "Poppins",
+                                "ekit_blog_posts_meta_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 13,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_meta_typography_font_weight": "400",
+                                "ekit_blog_posts_meta_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_btn_typography_typography": "custom",
+                                "ekit_blog_posts_btn_typography_font_family": "Hind Vadodara",
+                                "ekit_blog_posts_btn_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_blog_posts_btn_typography_font_weight": "600"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-blog-posts",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

@@ -1,0 +1,1565 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Moving Service - Local Business Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.3",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Detail Page",
+            "screenshot": "screenshots\/services-detail-page.jpg",
+            "source": "templates\/services-detail-page.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/services-detail-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Post",
+            "screenshot": "screenshots\/blog-post.jpg",
+            "source": "templates\/blog-post.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/blog-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Front Page",
+            "screenshot": "screenshots\/header-front-page.jpg",
+            "source": "templates\/header-front-page.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/header-front-page\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Prefooter",
+            "screenshot": "screenshots\/prefooter.jpg",
+            "source": "templates\/prefooter.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/prefooter\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Front Page",
+            "screenshot": "screenshots\/metform-front-page.jpg",
+            "source": "templates\/metform-front-page.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/metform-front-page\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact Page",
+            "screenshot": "screenshots\/metform-contact-page.jpg",
+            "source": "templates\/metform-contact-page.json",
+            "preview_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/template-kit\/metform_contact_page\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Black Widgets",
+            "version": "1.2.0",
+            "file": "black-widgets\/black-widgets.php",
+            "author": "Modernaweb Studio"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.0.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Sticky Header Effects for Elementor",
+            "version": "1.4.7",
+            "file": "sticky-header-effects-for-elementor\/sticky-header-effects-for-elementor.php",
+            "author": "Rwattner"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.4",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "couple-moving-into-new-house-PFM76GC.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/couple-moving-into-new-house-PFM76GC-800x350.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 378449,
+            "dimensions": [
+                2500,
+                1094
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFM76GC"
+        },
+        {
+            "filename": "young-couple-moving-in-new-house-taking-photos-PD4QPZ5.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/young-couple-moving-in-new-house-taking-photos-PD4QPZ5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 60335,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PD4QPZ5"
+        },
+        {
+            "filename": "packaging-the-box-young-male-mover-in-blue-uniform-8V2HQFQ.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/packaging-the-box-young-male-mover-in-blue-uniform-8V2HQFQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 44789,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8V2HQFQ"
+        },
+        {
+            "filename": "relocation-congrats-R7YQF8F.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/relocation-congrats-R7YQF8F.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 61563,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R7YQF8F"
+        },
+        {
+            "filename": "icon_00.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/icon_00.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3315,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_01.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/icon_01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 2228,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_02.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/icon_02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1867,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_04.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/icon_04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 1286,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-man-moving-5Y58G5L.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/young-man-moving-5Y58G5L-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 204397,
+            "dimensions": [
+                3000,
+                1250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5Y58G5L"
+        },
+        {
+            "filename": "young-man-moving-5Y58G5L-2.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/young-man-moving-5Y58G5L-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 42064,
+            "dimensions": [
+                800,
+                1391
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5Y58G5L"
+        },
+        {
+            "filename": "logo_03.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/logo_03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2403,
+            "dimensions": [
+                400,
+                233
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_01.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/logo_01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1612,
+            "dimensions": [
+                400,
+                233
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_02.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/logo_02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1951,
+            "dimensions": [
+                400,
+                233
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_04.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/logo_04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2241,
+            "dimensions": [
+                400,
+                233
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_05.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/logo_05.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1781,
+            "dimensions": [
+                400,
+                233
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_06.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/logo_06.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2250,
+            "dimensions": [
+                400,
+                233
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_07.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/logo_07.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1961,
+            "dimensions": [
+                400,
+                233
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo_08.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/logo_08.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1810,
+            "dimensions": [
+                400,
+                233
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "elements-new-york-city-seamless-banner-AUDVP5R.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/05\/elements-new-york-city-seamless-banner-AUDVP5R-800x444.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/blog-post.json",
+                    "name": "Blog Post"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 75461,
+            "dimensions": [
+                1620,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AUDVP5R"
+        },
+        {
+            "filename": "confident-group-of-diverse-young-entrepreneurs-smi-BR8JD2P.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/confident-group-of-diverse-young-entrepreneurs-smi-BR8JD2P.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 4160,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BR8JD2P"
+        },
+        {
+            "filename": "confident-businessman-in-conference-room-J5SV328.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/confident-businessman-in-conference-room-J5SV328.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 4202,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J5SV328"
+        },
+        {
+            "filename": "QWVC4G6.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/QWVC4G6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 5043,
+            "dimensions": [
+                120,
+                130
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QWVC4G6"
+        },
+        {
+            "filename": "PFSC7KJ.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/PFSC7KJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 4982,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFSC7KJ"
+        },
+        {
+            "filename": "PC3W2HV.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/PC3W2HV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 3819,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PC3W2HV"
+        },
+        {
+            "filename": "elements-topographic-map-seamless-patterns-SPAPTV.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/elements-topographic-map-seamless-patterns-SPAPTV-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 162516,
+            "dimensions": [
+                1201,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SPAPTV"
+        },
+        {
+            "filename": "app.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/app.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 55708,
+            "dimensions": [
+                498,
+                513
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "googlestore_dark.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/googlestore_dark.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 3981,
+            "dimensions": [
+                171,
+                57
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "appstore_dark.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/appstore_dark.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 3866,
+            "dimensions": [
+                162,
+                57
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "delivery-man-with-package-outdoors-MT8V97P.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/delivery-man-with-package-outdoors-MT8V97P-800x323.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 278827,
+            "dimensions": [
+                2200,
+                888
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MT8V97P"
+        },
+        {
+            "filename": "delivery-man-with-package-outdoors-U6D5XDB.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/delivery-man-with-package-outdoors-U6D5XDB-800x957.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 112499,
+            "dimensions": [
+                900,
+                1077
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-U6D5XDB"
+        },
+        {
+            "filename": "moving-boxes-with-packed-stuff-and-chair-for-movin-6PYMJC8.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/moving-boxes-with-packed-stuff-and-chair-for-movin-6PYMJC8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 47893,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6PYMJC8"
+        },
+        {
+            "filename": "close-up-photo-of-a-stack-of-moving-boxes-53JL5HB.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/close-up-photo-of-a-stack-of-moving-boxes-53JL5HB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 38658,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-53JL5HB"
+        },
+        {
+            "filename": "delivery-of-parcel-SVYKCXJ.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/delivery-of-parcel-SVYKCXJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 66765,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SVYKCXJ"
+        },
+        {
+            "filename": "just-moved-in-BRBU85R.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/just-moved-in-BRBU85R.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 50509,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BRBU85R"
+        },
+        {
+            "filename": "handyman-at-the-kitchen-ZX7P4KQ.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/handyman-at-the-kitchen-ZX7P4KQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 37627,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZX7P4KQ"
+        },
+        {
+            "filename": "jolly-young-carpenters-relaxing-during-break-MVFYB7T.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/jolly-young-carpenters-relaxing-during-break-MVFYB7T-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 293653,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MVFYB7T"
+        },
+        {
+            "filename": "loading-boxes-XX9YJCF.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/loading-boxes-XX9YJCF-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 204155,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XX9YJCF"
+        },
+        {
+            "filename": "mover-loading-car-for-client-59ELK2J.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/mover-loading-car-for-client-59ELK2J-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 220818,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-59ELK2J"
+        },
+        {
+            "filename": "tired-and-taking-break-two-young-movers-in-blue-un-JWCCPYZ.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/tired-and-taking-break-two-young-movers-in-blue-un-JWCCPYZ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 354484,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JWCCPYZ"
+        },
+        {
+            "filename": "removing-boxes-YBPC2MB.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/removing-boxes-YBPC2MB-800x368.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 119238,
+            "dimensions": [
+                2200,
+                1013
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YBPC2MB"
+        },
+        {
+            "filename": "move-it-here-2MG9X47.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/move-it-here-2MG9X47.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 71543,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2MG9X47"
+        },
+        {
+            "filename": "delivery-service-worker-loading-truck-UNCVNQ5.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/delivery-service-worker-loading-truck-UNCVNQ5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 70421,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UNCVNQ5"
+        },
+        {
+            "filename": "moving-company-service-8XCFUMV.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/moving-company-service-8XCFUMV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 53287,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8XCFUMV"
+        },
+        {
+            "filename": "i_05.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/i_05.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 6080,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "i_06.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/i_06.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 8403,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "i_04.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/i_04.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 5718,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "i_02.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/i_02.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 3572,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "i_03.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/i_03.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 4639,
+            "dimensions": [
+                250,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_05.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/icon_05.png",
+            "templates": [
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 4062,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_06.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/icon_06.png",
+            "templates": [
+                {
+                    "source": "templates\/services-detail-page.json",
+                    "name": "Services Detail Page"
+                }
+            ],
+            "filesize": 3605,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "preparing-to-moving-GUCCB8J.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/preparing-to-moving-GUCCB8J.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 66294,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GUCCB8J"
+        },
+        {
+            "filename": "office-move-cardboards-for-moving-FP36YPX.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/office-move-cardboards-for-moving-FP36YPX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 90527,
+            "dimensions": [
+                800,
+                580
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FP36YPX"
+        },
+        {
+            "filename": "busy-day-two-young-movers-in-blue-uniform-working-9QJB2F5.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/busy-day-two-young-movers-in-blue-uniform-working-9QJB2F5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 59801,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9QJB2F5"
+        },
+        {
+            "filename": "delivery-service-worker-loading-truck-UNCVNQ5-1.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/delivery-service-worker-loading-truck-UNCVNQ5-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 79707,
+            "dimensions": [
+                900,
+                601
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UNCVNQ5"
+        },
+        {
+            "filename": "moving-company-service-8XCFUMV-1.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/moving-company-service-8XCFUMV-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 64836,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8XCFUMV"
+        },
+        {
+            "filename": "workman-or-courier-holds-carton-box-in-hands-PSH3T25.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/workman-or-courier-holds-carton-box-in-hands-PSH3T25-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 66085,
+            "dimensions": [
+                900,
+                601
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSH3T25"
+        },
+        {
+            "filename": "young-male-mover-in-blue-uniform-works-indoors-in-BU9HHGP.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/young-male-mover-in-blue-uniform-works-indoors-in-BU9HHGP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 58527,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BU9HHGP"
+        },
+        {
+            "filename": "young-mover-unpacking-boxes-in-new-restaurant-EQYNVSX.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/07\/young-mover-unpacking-boxes-in-new-restaurant-EQYNVSX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 85826,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EQYNVSX"
+        },
+        {
+            "filename": "family-sitting-in-back-of-removal-truck-on-moving-PMBVLWC.jpg",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/05\/family-sitting-in-back-of-removal-truck-on-moving-PMBVLWC-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 353113,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PMBVLWC"
+        },
+        {
+            "filename": "logo_white.png",
+            "thumbnail_url": "https:\/\/puzzlerbox.com\/templatekits-free\/moving-company\/wp-content\/uploads\/sites\/8\/2021\/06\/logo_white.png",
+            "templates": [
+                {
+                    "source": "templates\/header-front-page.json",
+                    "name": "Header Front Page"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3519,
+            "dimensions": [
+                150,
+                110
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,464 @@
+{
+    "version": "0.4",
+    "title": "Global Kit Styles",
+    "type": "section",
+    "metadata": {
+        "template_type": "global-styles",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "additional_template_information": [
+            "These are the global theme styles configured through the Elementor Theme Styles area."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [],
+    "page_settings": {
+        "system_colors": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "color": "#192437"
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "color": "#121B2B"
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "color": "#727272"
+            },
+            {
+                "_id": "accent",
+                "title": "Accent",
+                "color": "#FF5316"
+            }
+        ],
+        "custom_colors": [],
+        "system_typography": [
+            {
+                "_id": "primary",
+                "title": "H1",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Vadodara",
+                "typography_font_weight": "800",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 62,
+                    "sizes": []
+                },
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.3,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 40,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "secondary",
+                "title": "H2",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Vadodara",
+                "typography_font_weight": "800",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 45,
+                    "sizes": []
+                },
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.3,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 35,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "typography_typography": "custom",
+                "typography_font_family": "Poppins",
+                "typography_font_weight": "400",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.8,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 14,
+                    "sizes": []
+                },
+                "typography_line_height_mobile": {
+                    "unit": "em",
+                    "size": 1.7,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "accent",
+                "title": "Button",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Vadodara",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 16,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 14,
+                    "sizes": []
+                }
+            }
+        ],
+        "custom_typography": [
+            {
+                "_id": "bfa2f67",
+                "title": "H3",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Vadodara",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 32,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.4,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 25,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "6008311",
+                "title": "H4",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Vadodara",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 25,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.4,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 20,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "6c0751a",
+                "title": "H5",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Vadodara",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 20,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.5,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "62ab1dc",
+                "title": "H6",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Vadodara",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 16,
+                    "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.5,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "d7f7275",
+                "title": "Sub Heading",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Vadodara",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": 2,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 14,
+                    "sizes": []
+                }
+            }
+        ],
+        "default_generic_fonts": "Sans-serif",
+        "page_title_selector": "h1.entry-title",
+        "activeItemIndex": 1,
+        "viewport_md": 768,
+        "viewport_lg": 1025,
+        "container_width": {
+            "unit": "px",
+            "size": 1200,
+            "sizes": []
+        },
+        "body_color": "#727272",
+        "body_typography_typography": "custom",
+        "body_typography_font_family": "Poppins",
+        "body_typography_font_size": {
+            "unit": "px",
+            "size": 15,
+            "sizes": []
+        },
+        "body_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 14,
+            "sizes": []
+        },
+        "body_typography_font_weight": "400",
+        "body_typography_line_height": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+        },
+        "body_typography_line_height_mobile": {
+            "unit": "em",
+            "size": 1.7,
+            "sizes": []
+        },
+        "link_normal_color": "#FF5316",
+        "link_normal_typography_typography": "custom",
+        "link_normal_typography_font_family": "Hind Vadodara",
+        "link_normal_typography_font_size": {
+            "unit": "px",
+            "size": 16,
+            "sizes": []
+        },
+        "link_normal_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 14,
+            "sizes": []
+        },
+        "link_normal_typography_font_weight": "600",
+        "h1_color": "#192437",
+        "h1_typography_typography": "custom",
+        "h1_typography_font_family": "Hind Vadodara",
+        "h1_typography_font_size": {
+            "unit": "px",
+            "size": 62,
+            "sizes": []
+        },
+        "h1_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 40,
+            "sizes": []
+        },
+        "h1_typography_font_weight": "800",
+        "h1_typography_line_height": {
+            "unit": "em",
+            "size": 1.3,
+            "sizes": []
+        },
+        "h2_color": "#192437",
+        "h2_typography_typography": "custom",
+        "h2_typography_font_family": "Hind Vadodara",
+        "h2_typography_font_size": {
+            "unit": "px",
+            "size": 45,
+            "sizes": []
+        },
+        "h2_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 35,
+            "sizes": []
+        },
+        "h2_typography_font_weight": "800",
+        "h2_typography_line_height": {
+            "unit": "em",
+            "size": 1.3,
+            "sizes": []
+        },
+        "h3_color": "#192437",
+        "h3_typography_typography": "custom",
+        "h3_typography_font_family": "Hind Vadodara",
+        "h3_typography_font_size": {
+            "unit": "px",
+            "size": 32,
+            "sizes": []
+        },
+        "h3_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 25,
+            "sizes": []
+        },
+        "h3_typography_font_weight": "600",
+        "h3_typography_line_height": {
+            "unit": "em",
+            "size": 1.4,
+            "sizes": []
+        },
+        "h4_color": "#192437",
+        "h4_typography_typography": "custom",
+        "h4_typography_font_family": "Hind Vadodara",
+        "h4_typography_font_size": {
+            "unit": "px",
+            "size": 25,
+            "sizes": []
+        },
+        "h4_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+        },
+        "h4_typography_font_weight": "600",
+        "h4_typography_line_height": {
+            "unit": "em",
+            "size": 1.4,
+            "sizes": []
+        },
+        "h5_color": "#192437",
+        "h5_typography_typography": "custom",
+        "h5_typography_font_family": "Hind Vadodara",
+        "h5_typography_font_size": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+        },
+        "h5_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 18,
+            "sizes": []
+        },
+        "h5_typography_font_weight": "600",
+        "h5_typography_line_height": {
+            "unit": "em",
+            "size": 1.5,
+            "sizes": []
+        },
+        "h6_color": "#192437",
+        "h6_typography_typography": "custom",
+        "h6_typography_font_family": "Hind Vadodara",
+        "h6_typography_font_size": {
+            "unit": "px",
+            "size": 16,
+            "sizes": []
+        },
+        "h6_typography_font_weight": "500",
+        "h6_typography_line_height": {
+            "unit": "em",
+            "size": 1.5,
+            "sizes": []
+        },
+        "button_typography_typography": "custom",
+        "button_typography_font_family": "Hind Vadodara",
+        "button_typography_font_size": {
+            "unit": "px",
+            "size": 16,
+            "sizes": []
+        },
+        "button_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 14,
+            "sizes": []
+        },
+        "button_typography_font_weight": "600",
+        "button_text_color": "#FFFFFF",
+        "button_background_color": "#FF5316",
+        "button_border_radius": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+        },
+        "button_padding": {
+            "unit": "px",
+            "top": "20",
+            "right": "35",
+            "bottom": "20",
+            "left": "35",
+            "isLinked": false
+        },
+        "__globals__": {
+            "body_typography_typography": "",
+            "body_color": "",
+            "link_normal_typography_typography": "",
+            "link_normal_color": "",
+            "h1_typography_typography": "",
+            "h1_color": "",
+            "h2_typography_typography": "",
+            "h2_color": "",
+            "h3_color": "",
+            "h3_typography_typography": "",
+            "h4_typography_typography": "",
+            "h4_color": "",
+            "h5_typography_typography": "",
+            "h5_color": "",
+            "h6_color": "",
+            "h6_typography_typography": "",
+            "button_typography_typography": "",
+            "button_background_color": "",
+            "form_field_typography_typography": "globals\/typography?id=text",
+            "form_label_color": "globals\/colors?id=primary",
+            "form_label_typography_typography": "globals\/typography?id=6c0751a",
+            "form_field_text_color": "globals\/colors?id=primary"
+        },
+        "button_hover_border_radius": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+        },
+        "form_field_background_color": "#FFFFFF"
+    }
+}

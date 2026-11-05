@@ -1,0 +1,1663 @@
+{
+    "version": "0.4",
+    "title": "Services Detail",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "1d61b2c1",
+            "settings": {
+                "background_background": "classic",
+                "background_color": "#121B2B",
+                "background_image": {
+                    "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2022\/01\/bryan-colosky-3ChXTytXDUI-unsplash-1.jpg",
+                    "id": 705
+                },
+                "background_position": "top center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#192437",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "overlay_blend_mode": "multiply",
+                "padding": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "b17b0e3"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "globals\/colors?id=secondary",
+                    "background_overlay_color": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "30",
+                    "bottom": "40",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "54b40419",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "a04bf01"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "355c2059",
+                            "settings": {
+                                "title": "Service Detail",
+                                "title_color": "#FFFFFF",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "48a9a14"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=bfa2f67"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 50,
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "45b805c1",
+                            "settings": {
+                                "width": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 4,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "28a4aa9"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "color": "globals\/colors?id=accent"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "71d106e",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet consectetur elit<\/p>",
+                                "text_color": "#FFFFFF",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "a458d66"
+                                    }
+                                ],
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 150
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6eb6a0b8",
+            "settings": {
+                "layout": "full_width",
+                "structure": "20",
+                "pa_condition_repeater": [
+                    {
+                        "_id": "6ecdb5d"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "570de",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2022\/01\/young-professional-plumber-in-grey-uniform-standin-resize.jpg",
+                            "id": 1215
+                        },
+                        "background_position": "center center",
+                        "background_size": "cover",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "2858a51"
+                            }
+                        ],
+                        "animation": "fadeInUp",
+                        "animation_delay": 300
+                    },
+                    "elements": [
+                        {
+                            "id": "1695088e",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 300,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "362d332"
+                                    }
+                                ]
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "63fae8ff",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "597de22"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "6cbce56c",
+                            "settings": {
+                                "title": "SERVICE OVERVIEW",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "100",
+                                    "right": "0",
+                                    "bottom": "-5",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d7f7275",
+                                    "title_color": "globals\/colors?id=accent"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "0a97e3d"
+                                    }
+                                ],
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "100",
+                                    "bottom": "0",
+                                    "left": "80",
+                                    "isLinked": false
+                                },
+                                "header_size": "div",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "80",
+                                    "right": "30",
+                                    "bottom": "0",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 350
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "65170377",
+                            "settings": {
+                                "title": "Water Damage Restoration",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=secondary"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "ae1949a"
+                                    }
+                                ],
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "100",
+                                    "bottom": "0",
+                                    "left": "80",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "30",
+                                    "bottom": "0",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 450
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6f6fd49a",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus semper placerat metus. Cras venenatis mi non purus dictum, non tincidunt ligula varius. Maecenas ac ante sit amet neque.<\/p>",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4c716fd"
+                                    }
+                                ],
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "100",
+                                    "bottom": "50",
+                                    "left": "80",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6bb961bb",
+                            "settings": {
+                                "structure": "20",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "9a2308a"
+                                    }
+                                ]
+                            },
+                            "elements": [
+                                {
+                                    "id": "7b7adfda",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "0f07cc9"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1b3303a3",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/selective-focus-of-plumber-holding-metal-pipe-near-resize.jpg",
+                                                    "id": 1118
+                                                },
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "e2aa3f2"
+                                                    }
+                                                ],
+                                                "css_filters_hover_css_filter": "custom",
+                                                "css_filters_hover_brightness": {
+                                                    "unit": "px",
+                                                    "size": 80,
+                                                    "sizes": []
+                                                },
+                                                "image_size": "full",
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 200
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "22aebce4",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "e5e2180"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "67c97779",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/thoughtful-adult-repairman-holding-pipes-and-tools-resize.jpg",
+                                                    "id": 1130
+                                                },
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "e2aa3f2"
+                                                    }
+                                                ],
+                                                "css_filters_hover_css_filter": "custom",
+                                                "css_filters_hover_brightness": {
+                                                    "unit": "px",
+                                                    "size": 80,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 300
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "735ea1e",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "d8c4d62"
+                    }
+                ],
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "10",
+                    "bottom": "100",
+                    "left": "10",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "20",
+                    "bottom": "80",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7add1588",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "807913a"
+                            }
+                        ],
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "50",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3a942733",
+                            "settings": {
+                                "title": "Local Plumbers You Can Trust",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-5",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d7f7275",
+                                    "title_color": "globals\/colors?id=accent"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "0a97e3d"
+                                    }
+                                ],
+                                "header_size": "div",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 50
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7e6b55f3",
+                            "settings": {
+                                "title": "We Will Be There To Help You In Whatever Way You Need",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4f99ad5"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=secondary"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 150
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7e89effb",
+                            "settings": {
+                                "editor": "<p>Curabitur id sem sit amet nibh vulputate tincidunt in vitae erat. Morbi vehicula, purus quis lacinia vehicula, nunc nunc rutrum est, sit amet porta odio mi vulputate turpis.<\/p>",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "3c17208"
+                                    }
+                                ],
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 250
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6f8be42f",
+                            "settings": {
+                                "structure": "20",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "d540a38"
+                                    }
+                                ],
+                                "margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "50",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "5b8b1295",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "fa32aca"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "10668010",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Praesent Sodales Orci",
+                                                        "_id": "359aeef"
+                                                    },
+                                                    {
+                                                        "text": "Curabitur Dignissim",
+                                                        "_id": "0c61150"
+                                                    },
+                                                    {
+                                                        "text": "Nulla Condimentum",
+                                                        "_id": "d018952"
+                                                    },
+                                                    {
+                                                        "text": "Cras convallis metus",
+                                                        "_id": "7c96d0e"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "35ad2c1"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=accent",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "icon_color": "#FF5316",
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 300
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "546533cd",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "b5b26cb"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2bd7aba6",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Nulla Condimentum",
+                                                        "_id": "d018952"
+                                                    },
+                                                    {
+                                                        "text": "Cras convallis metus",
+                                                        "_id": "e9a408b"
+                                                    },
+                                                    {
+                                                        "text": "Praesent Sodales Orci",
+                                                        "_id": "359aeef"
+                                                    },
+                                                    {
+                                                        "text": "Curabitur Dignissim",
+                                                        "_id": "0c61150"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "35ad2c1"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=accent",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "icon_color": "#FF5316",
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": 350
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "45ff57ce",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "bottom",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "50",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "16ecada"
+                            }
+                        ],
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/plumber-in-uniform-installing-drain-pipe-top-view-resize.jpg",
+                            "id": 1167
+                        },
+                        "background_position": "center center",
+                        "background_size": "cover",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "animation": "fadeInUp",
+                        "animation_delay": 250
+                    },
+                    "elements": [
+                        {
+                            "id": "53328349",
+                            "settings": {
+                                "structure": "20",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "52128a1"
+                                    }
+                                ]
+                            },
+                            "elements": [
+                                {
+                                    "id": "2ba0b680",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 60,
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/tools-case-top-view-of-seniour-handyman-repairing-resize.jpg",
+                                            "id": 1134
+                                        },
+                                        "background_size": "cover",
+                                        "background_overlay_background": "classic",
+                                        "background_overlay_opacity": {
+                                            "unit": "px",
+                                            "size": 0.9,
+                                            "sizes": []
+                                        },
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "border_color": "#FFFFFF",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "-50",
+                                            "left": "-70",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "50",
+                                            "right": "50",
+                                            "bottom": "50",
+                                            "left": "50",
+                                            "isLinked": true
+                                        },
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "e67cb5c"
+                                            }
+                                        ],
+                                        "__globals__": {
+                                            "background_color": "",
+                                            "background_overlay_color": "globals\/colors?id=secondary"
+                                        },
+                                        "border_width_mobile": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_delay": 350
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "63958daf",
+                                            "settings": {
+                                                "ekit_video_popup_button_title": "Play Video",
+                                                "ekit_video_popup_url": "https:\/\/www.youtube.com\/watch?v=VhBl3dHT5SY",
+                                                "ekit_video_popup_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 35,
+                                                    "sizes": []
+                                                },
+                                                "ekit_video_popup_btn_width": {
+                                                    "unit": "px",
+                                                    "size": 80,
+                                                    "sizes": []
+                                                },
+                                                "ekit_video_popup_btn_height": {
+                                                    "unit": "px",
+                                                    "size": 80,
+                                                    "sizes": []
+                                                },
+                                                "ekit_video_popup_btn_line_height": {
+                                                    "unit": "px",
+                                                    "size": 75,
+                                                    "sizes": []
+                                                },
+                                                "ekit_video_popup_btn_bg_color_background": "classic",
+                                                "pa_condition_repeater": [
+                                                    {
+                                                        "_id": "2673ac3"
+                                                    }
+                                                ],
+                                                "__globals__": {
+                                                    "ekit_video_popup_btn_bg_color_color": "globals\/colors?id=accent",
+                                                    "ekit_video_popup_btn_glow_color": "globals\/colors?id=accent",
+                                                    "ekit_video_popup_btn_text_color": ""
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "elementskit-video",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1385eaeb",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 39.818,
+                                        "pa_condition_repeater": [
+                                            {
+                                                "_id": "972bea3"
+                                            }
+                                        ]
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "36a1ee5",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/bearded-handyman-lying-on-floor-near-toolbox-in-ba-resize.jpg",
+                    "id": 478
+                },
+                "background_position": "bottom center",
+                "background_size": "cover",
+                "background_overlay_background": "gradient",
+                "background_overlay_color": "#121B2B00",
+                "background_overlay_color_b": "#121B2BE8",
+                "background_overlay_color_b_stop": {
+                    "unit": "%",
+                    "size": 50,
+                    "sizes": []
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.8,
+                    "sizes": []
+                },
+                "overlay_blend_mode": "multiply",
+                "padding": {
+                    "unit": "px",
+                    "top": "300",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "b609c5c"
+                    }
+                ],
+                "__globals__": {
+                    "background_color": "",
+                    "background_overlay_color": "",
+                    "background_overlay_color_b": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "250",
+                    "right": "20",
+                    "bottom": "100",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "200",
+                    "right": "20",
+                    "bottom": "80",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6e022808",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "73877ae"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "1ed3e13b",
+                            "settings": {
+                                "title": "PROFESSIONAL SERVICE",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-5",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d7f7275",
+                                    "title_color": "globals\/colors?id=accent"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "0a97e3d"
+                                    }
+                                ],
+                                "align": "left",
+                                "header_size": "div",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 50
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "35618453",
+                            "settings": {
+                                "title": "Professional Plumbing Services in United States",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=secondary"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "ae1949a"
+                                    }
+                                ],
+                                "align": "left",
+                                "title_color": "#FFFFFF",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 150
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "42e09031",
+                            "settings": {
+                                "editor": "<p>Quisque nec cursus erat. Sed eleifend aliquam orci et lobortis. Praesent lacinia turpis augue, sed ullamcorper nisi pulvinar eget. Aenean dapibus quam at molestie aliquam. Curabitur id dolor nunc. Proin tincidunt dolor vel nisl pellentesque, eu volutpat nibh bibendum.<\/p>",
+                                "text_color": "#FFFFFF",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "c8af748"
+                                    }
+                                ],
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 250
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5e906bba",
+                            "settings": {
+                                "text": "Consult Now",
+                                "align": "left",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "35",
+                                    "bottom": "20",
+                                    "left": "35",
+                                    "isLinked": false
+                                },
+                                "icon_align": "right",
+                                "icon_indent": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "background_color": "#FF5316",
+                                "hover_animation": "float",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=accent"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "01d0d1c"
+                                    }
+                                ],
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 350
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "758046c8",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "2e78010"
+                            }
+                        ]
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "26ba199d",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "pa_condition_repeater": [
+                    {
+                        "_id": "1e2e994"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "335cb5c2",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "81e916f"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "3d7270de",
+                            "settings": {
+                                "title": "Featured Projects",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-5",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d7f7275",
+                                    "title_color": "globals\/colors?id=accent"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "0a97e3d"
+                                    }
+                                ],
+                                "align": "center",
+                                "header_size": "div",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 50
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6c589bb8",
+                            "settings": {
+                                "title": "Our Recent Works",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=secondary"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "ae1949a"
+                                    }
+                                ],
+                                "align": "center",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 150
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "32b937d1",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus semper placerat metus.<br \/>Cras venenatis mi non purus dictum, non tincidunt ligula varius.<\/p>",
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "4c716fd"
+                                    }
+                                ],
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=text"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 250
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "492e6236",
+                            "settings": {
+                                "premium_gallery_img_size_select": "metro",
+                                "premium_gallery_images_fit": "cover",
+                                "premium_gallery_column_number": "33.330%",
+                                "premium_gallery_load_more_text": "Load More",
+                                "premium_gallery_first_cat_label": "All Projects",
+                                "premium_gallery_cats_content": [
+                                    {
+                                        "premium_gallery_img_cat": "Commercial Services",
+                                        "_id": "009f972"
+                                    },
+                                    {
+                                        "premium_gallery_img_cat": "Residential Services",
+                                        "_id": "975b5a2"
+                                    },
+                                    {
+                                        "_id": "0d8d160",
+                                        "premium_gallery_img_cat": "Emergency Services"
+                                    }
+                                ],
+                                "url_flag": "cat",
+                                "premium_gallery_img_content": [
+                                    {
+                                        "premium_gallery_img_name": "Water Line Repairs",
+                                        "premium_gallery_img_category": "Commercial Services",
+                                        "_id": "98c14a1",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/plumber-choosing-shower-in-plumbering-store-resize.jpg",
+                                            "id": 1151
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 5,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_img_desc": "Plumbing",
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": 8,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Outdoor Plumbing",
+                                        "premium_gallery_img_category": "Residential Services",
+                                        "_id": "fe53b1e",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/cropped-view-of-man-holding-plunger-in-sink-with-w-resize.jpg",
+                                            "id": 1114
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 3,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_img_desc": "Plumbing",
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Gas Line Services",
+                                        "premium_gallery_img_category": "Emergency Services",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/side-view-of-handsome-repairman-using-pipe-wrench-resize.jpg",
+                                            "id": 1159
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 3,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_img_desc": "Plumbing",
+                                        "_id": "ec9b845",
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Tubs & Showers",
+                                        "premium_gallery_img_category": "Residential Services",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/adult-plumber-fixing-sink-at-bathroom-resize.jpg",
+                                            "id": 1196
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 2,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_img_desc": "Plumbing",
+                                        "_id": "7ff441c",
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Drain Cleaning",
+                                        "premium_gallery_img_category": "Commercial Services",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/man-fixing-kitchen-sink-resize.jpg",
+                                            "id": 1186
+                                        },
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 2,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_img_desc": "Plumbing",
+                                        "_id": "58afe0d",
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Clogged Drains",
+                                        "premium_gallery_img_category": "Commercial Services",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/tools-case-top-view-of-seniour-handyman-repairing-resize.jpg",
+                                            "id": 1134
+                                        },
+                                        "premium_gallery_img_desc": "Plumbing",
+                                        "premium_gallery_image_cell": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "_id": "3061a02",
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 3,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "premium_gallery_img_name": "Leaking Tap Repairs",
+                                        "premium_gallery_img_category": "Emergency Services",
+                                        "premium_gallery_img": {
+                                            "url": "https:\/\/templatekit.kulokale.com\/plumbtion\/wp-content\/uploads\/sites\/7\/2021\/12\/male-plumber-in-uniform-installing-disposer-resize.jpg",
+                                            "id": 1197
+                                        },
+                                        "premium_gallery_img_desc": "Plumbing",
+                                        "premium_gallery_image_cell": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "_id": "228448c",
+                                        "premium_gallery_image_vcell": {
+                                            "unit": "px",
+                                            "size": 3,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_cell_tablet": {
+                                            "unit": "px",
+                                            "size": 6,
+                                            "sizes": []
+                                        },
+                                        "premium_gallery_image_vcell_tablet": {
+                                            "unit": "px",
+                                            "size": 4,
+                                            "sizes": []
+                                        }
+                                    }
+                                ],
+                                "premium_gallery_img_style": "style1",
+                                "premium_gallery_links_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "premium_gallery_light_box": "",
+                                "premium_gallery_lightbox_type": "no",
+                                "premium_gallery_lightbox_theme": "light_rounded",
+                                "premium_gallery_lightbox_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "premium_gallery_icons_style_overlay": "#FF5316D6",
+                                "premium_gallery_title_color": "#FFFFFF",
+                                "premium_gallery_title_typo_typography": "custom",
+                                "premium_gallery_title_typo_font_family": "Hind Vadodara",
+                                "premium_gallery_title_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "premium_gallery_title_typo_font_weight": "600",
+                                "premium_gallery_title_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "premium_gallery_description_color": "#FFFFFF",
+                                "premium_gallery_description_typo_typography": "custom",
+                                "premium_gallery_description_typo_font_family": "Poppins",
+                                "premium_gallery_description_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "premium_gallery_description_typo_font_weight": "400",
+                                "premium_gallery_description_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "premium_gallery_content_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "premium_gallery_filter_typo_typography": "custom",
+                                "premium_gallery_filter_typo_font_family": "Hind Vadodara",
+                                "premium_gallery_filter_typo_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "premium_gallery_filter_typo_font_weight": "500",
+                                "premium_gallery_filter_typo_line_height": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "premium_gallery_filter_color": "#192437",
+                                "premium_gallery_background_color": "#19243700",
+                                "premium_gallery_filter_border_radius": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "2091368"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "premium_gallery_description_typo_typography": "globals\/typography?id=text",
+                                    "premium_gallery_title_typo_typography": "globals\/typography?id=6008311",
+                                    "premium_gallery_icons_style_overlay": "",
+                                    "premium_gallery_filter_typo_typography": "globals\/typography?id=62ab1dc",
+                                    "premium_gallery_background_color": "",
+                                    "premium_gallery_filter_hover_color": "",
+                                    "premium_gallery_filter_border_color": "globals\/colors?id=primary",
+                                    "premium_gallery_filter_color": "globals\/colors?id=primary",
+                                    "premium_gallery_background_hover_color": "globals\/colors?id=primary",
+                                    "premium_gallery_background_active_color": "globals\/colors?id=primary"
+                                },
+                                "premium_gallery_responsive_switcher": "yes",
+                                "premium_gallery_filter_border_border": "solid",
+                                "premium_gallery_filter_border_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "premium_gallery_filter_border_color": "#192437",
+                                "premium_gallery_filter_hover_color": "#FFFFFF",
+                                "premium_gallery_background_hover_color": "#192437",
+                                "premium_gallery_filter_active_color": "#FFFFFF",
+                                "premium_gallery_filter_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "5",
+                                    "bottom": "40",
+                                    "left": "5",
+                                    "isLinked": false
+                                },
+                                "premium_gallery_filter_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "premium_gallery_filter_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 350
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "premium-img-gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
